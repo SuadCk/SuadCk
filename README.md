@@ -1,4 +1,4 @@
-👋 Hey, I’m Muhammed Suad Ck
+__👋 Hey, I’m Muhammed Suad Ck
 🚀 Passionate about Web Development | 🎨 Creative Designer
 
 🌱 What I’m up to
@@ -25,6 +25,6 @@ Other Interests: Poster & Logo Design 🎨
   📷 Instagram
   🐦 Twitter/X
 
-✉️ Email: youremail@example.com
+✉️ Email: muhammedsuadck1@gmail.com
 
-⚡ “Keep building, keep learning, keep growing.”_
+⚡ “Keep building, keep learning, keep growing.”__

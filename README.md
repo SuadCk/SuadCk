@@ -1,11 +1,30 @@
-- 👋 Hi, I’m Suad Ck
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front-end development
-- 💞️ I’m looking to collaborate on top companies like  Microsoft or other companies
-- 📫 How to reach me ...
-- ⚡ Fun fact: High Secondary School student
+👋 Hey, I’m Muhammed Suad Ck
+🚀 Passionate about Web Development | 🎨 Creative Designer
 
-<!---
-SuadCk/SuadCk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 What I’m up to
+    Learning JavaScript, moving towards Full-Stack Web Development
+    Exploring freelancing opportunities in frontend + design
+
+🛠️ Tech Stack
+  Languages: HTML, CSS, JavaScript, C
+  Currently Learning: React.js, Node.js
+  Tools: Git, VS Code, Figma
+  
+Other Interests: Poster & Logo Design 🎨
+
+📊 GitHub Stats
+
+
+✨ Fun Facts
+  I love building clean, minimal designs
+  Enjoy brainstorming creative ideas
+  Always curious about tech + business combinations
+
+📫 Let’s Connect
+  💼 LinkedIn
+  📷 Instagram
+  🐦 Twitter/X
+
+✉️ Email: youremail@example.com
+
+⚡ “Keep building, keep learning, keep growing.”_
